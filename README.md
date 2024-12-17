@@ -6,9 +6,9 @@
 
 Only URL shortner that will shorten any extension over secured network is now available through web.
 
-🌟 Shorten any malicious file-carrying URL through pur web interface and easily bypass blacklist filter ! Bypass virus total, bitly, redirectdetective and more..
+🌟 Shorten any malicious file-carrying URL through our web interface and easily bypass blacklist filter ! Bypass virus total, bitly, redirectdetective and more..
 
-Our Tool is a complete implementation of a URL shortener with additional functionality, including tracking user device information, VPN detection, and API key validation. Below is a succinct overview of the key components and functionalities present in the script:
+Our Tool is a complete implementation of a URL shortener with additional functionality, including tracking user device information, VPN detection, and API key validation. Below is a overview of the key components and functionalities present in the script:
 
 
 ### Key Functionalities
@@ -25,7 +25,7 @@ DIRECT ACCESS 👇
 
 (https://kalkikrivadna.com/u22.shtml)
 
-(you can request trual api key to be used with command line or use in web app. Send tracking data to discord webhook in cli)
+(you can request trial api key to be used with command line or use in web app. Send tracking data to discord webhook in cli)
 
 🚀 Stay safe and happy shortening! 😊
 
