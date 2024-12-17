@@ -31,6 +31,9 @@ DIRECT ACCESS 👇
 
 Find more details at https://kalkikrivadna.com 
 
+###video demo
+
+https://youtube.com/shorts/BHj2zzbT0q0?si=wASq9XnKPKVVo4T1
 
 # Contact
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kalkimahavatar)
