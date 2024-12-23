@@ -21,7 +21,7 @@ The only URL shortener that securely masks any extension over a secured network,
 
 • 📱 **Advanced Tracking**
   - Device fingerprinting
-  - OS & browser detection
+  - OS, Browser & Network detection
   - Hardware specifications
   - VPN detection system
 
