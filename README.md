@@ -39,7 +39,7 @@ The only URL shortener that securely masks any extension over a secured network,
 
 • 🌐 **Web Interface**: [kalkikrivadna.com/u22.shtml](https://kalkikrivadna.com/u22.shtml)  
 • ℹ️ **More Info**: [kalkikrivadna.com](https://kalkikrivadna.com)  
-• 🔑 **API Key**: Request trial key for CLI use
+• 🔑 **API Key for command line**: Request trial key for CLI use through telegram 
 
 ## 📞 Contact
 
