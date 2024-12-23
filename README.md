@@ -7,7 +7,7 @@
 > 🌐 Encrypted Link Masking on Secured Network 🛜
 
 [![Demo](https://img.shields.io/badge/DEMO-YouTube-red.svg)](https://youtube.com/shorts/BHj2zzbT0q0)
-[![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20CLI-blue.svg)](https://kalkikrivadna.com/u22.shtml)
+[![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20CLI-blue.svg)]([https://sub1.kalkikrivadna.com:3000])
 [![Contact](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kalkimahavatar)
 
 The only URL shortener that securely masks any extension over a secured network, bypassing blacklist filters! 🛡️
