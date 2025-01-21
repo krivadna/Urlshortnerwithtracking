@@ -24,7 +24,8 @@ The only URL shortener that securely masks any extension over a secured network,
   - OS, Browser & Network detection
   - Hardware specifications
   - VPN detection system
-
+  - Geo location tracking
+  - 
 • 🔑 **API Integration**
   - Secure key validation
   - Usage control & monitoring
@@ -34,16 +35,19 @@ The only URL shortener that securely masks any extension over a secured network,
   - Web-based UI
   - Command line tool
   - Real-time tracking data
+  - 
+##  Access Tool 🔥 
 
-## Quick Access 🚀
+[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/u22.shtml)
 
-• 🌐 **Web Interface**: [kalkikrivadna.com/u22.shtml](https://kalkikrivadna.com/u22.shtml)  
-• ℹ️ **More Info**: [kalkikrivadna.com](https://kalkikrivadna.com)  
-• 🔑 **API Key for command line**: Request trial key for CLI use through telegram 
 
-## 📞 Contact
+### 🌐 Connect With Me
+Contact for pricing and custom implementations.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kalkimahavatar)
+[![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
 
----
-⚠️ Use responsibly for security testing purposes only
+
+<!-- Footer -->
+<img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>
+
