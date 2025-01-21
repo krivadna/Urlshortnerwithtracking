@@ -4,8 +4,6 @@
 
 ![Animated Banner](https://i.imgur.com/yc3bi2S.png)
 
-![ProxyGuard Banner](https://i.imgur.com/FIsb4XM.jpeg)
-
 > 🌐 Encrypted Link Masking on Secured Network 🛜
 
 [![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20CLI-blue.svg)](https://kalkikrivadna.com/u22.shtml)
