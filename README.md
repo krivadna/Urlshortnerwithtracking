@@ -2,7 +2,9 @@
 
 # No Holds Barred UrlShortner with Surveillance 🎭 (Web& Command line)
 
-![Animated Banner]([https://i.imgur.com/yc3bi2S.png]
+![Animated Banner](https://i.imgur.com/yc3bi2S.png)
+
+![ProxyGuard Banner](https://i.imgur.com/FIsb4XM.jpeg)
 
 > 🌐 Encrypted Link Masking on Secured Network 🛜
 
