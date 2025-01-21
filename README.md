@@ -24,7 +24,7 @@ The only URL shortener that securely masks any extension over a secured network,
   - Hardware specifications
   - VPN detection system
   - Geo location tracking
-  - 
+
 • 🔑 **API Integration**
   - Secure key validation
   - Usage control & monitoring
