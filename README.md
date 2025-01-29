@@ -1,13 +1,12 @@
 
 <h1 align="center">
   
-```diff
+
 - 🚨 SECURITY DISCLAIMER 🚨
-```
 
 <div align="center">
   
-```diff
+
 @@ THIS IS A PROOF OF CONCEPT - FOR EDUCATIONAL PURPOSES ONLY @@
 + Use Responsibly
 
