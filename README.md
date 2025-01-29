@@ -9,6 +9,73 @@
 [![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20CLI-blue.svg)](https://kalkikrivadna.com/u22.shtml)
 [![Contact](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
 
+# 🔗 Command-Line URL Shortener with Analytics
+
+[![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20CLI-blue.svg)](https://kalkikrivadna.com)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![API](https://img.shields.io/badge/API-REST-orange.svg)](https://kalkikrivadna.com/docs)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white)](https://discord.gg)
+
+## 👋 Welcome Developers!
+
+I'm excited to share my URL shortener CLI tool that includes built-in analytics capabilities.
+
+### ✨ Features
+
+- 🚀 Generate shortened URLs
+- 📊 Track link engagement
+- 🤖 Discord webhook integration
+- 🔒 HTTPS support
+- 🔌 Simple API interface
+
+### 📝 Usage Example
+
+Generate a shortened URL with tracking:
+
+```bash
+curl -X POST "https://sub2.kalkikrivadna.com:8000?api_key=dXGtHowJ2VoAKAUW" \
+-H "Content-Type: application/json" \
+-d '{"url": "https://example.com"}'
+```
+
+The API will return:
+1. 🎯 A shortened URL
+2. 📊 A tracking link (append the generated code to receive analytics via Discord)
+
+### 📈 API Details
+
+- Current usage limit: 10 requests
+- Rate limiting: 100 requests per hour
+- API Version: 1.0
+
+### 📚 Documentation
+
+For full documentation and additional commands:
+[View Documentation](https://kalkikrivadna.com/purchaseapi3.shtml)
+
+### 🛠️ Installation
+
+```bash
+npm install url-shortener-cli
+```
+
+### ⭐ Support
+
+If you find this tool useful, please consider:
+- Starring the [GitHub repository](https://github.com/krivadna/Urlshortnerwithtracking)
+- Sharing your feedback
+- Contributing to the project
+
+### 📱 Connect
+
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://kalkikrivadna.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/urlshortener)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:contact@kalkikrivadna.com)
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 The only URL shortener that securely masks any extension over a secured network, bypassing blacklist filters! 🛡️
 
 ## Key Features 🌟
