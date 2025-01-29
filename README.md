@@ -50,7 +50,6 @@
 ```diff
 @@ THIS IS A PROOF OF CONCEPT - FOR EDUCATIONAL PURPOSES ONLY @@
 + Use Responsibly
-- Do Not Use In Production
 ! Always Get Proper Authorization
 ```
 
