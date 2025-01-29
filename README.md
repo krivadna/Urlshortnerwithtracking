@@ -1,4 +1,14 @@
 
+<h1 align="center">
+  
+```diff
+- 🚨 SECURITY DISCLAIMER 🚨
+```
+
+<div align="center">
+  
+```diff
+
 # No Holds Barred UrlShortner with built in logger for tracking & Surveillance 🎭 (Web & Command line) by Cyber Kalki
 
 ![Animated Banner](https://i.imgur.com/yc3bi2S.png)
@@ -46,12 +56,6 @@
 
 
 ![Animated Banner](https://i.imgur.com/C5fKBE5.jpeg)
-
-
-@@ THIS IS A PROOF OF CONCEPT - FOR EDUCATIONAL PURPOSES ONLY @@
-+ Use Responsibly
-! Always Get Proper Authorization
-```
 
 ## 👋 Dear Coders!
 
