@@ -16,17 +16,9 @@
 [![API](https://img.shields.io/badge/API-REST-orange.svg)](https://kalkikrivadna.com/docs)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white)](https://discord.gg)
 
-## 👋 Welcome Developers!
+## 👋 Dear Coders!
 
-I'm excited to share my URL shortener CLI tool that includes built-in analytics capabilities.
-
-### ✨ Features
-
-- 🚀 Generate shortened URLs
-- 📊 Track link engagement
-- 🤖 Discord webhook integration
-- 🔒 HTTPS support
-- 🔌 Simple API interface
+I invite you to test my command-line URL shortener with a built-in logger. Shorten any extension on HTTPS and bypass security filters, including VirusTotal, bitly, redirect detective and more.. It's impossible to detect the redirect path.
 
 ### 📝 Usage Example
 
@@ -44,7 +36,7 @@ The API will return:
 
 ### 📈 API Details
 
-- Current usage limit: 10 requests
+- Current usage limit: 10 requests (connect with me for free api key testing)
 
 
 ### 📚 Api details Documentation and commands 
@@ -59,11 +51,6 @@ For full documentation and additional commands:
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/urlshortener)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:contact@kalkikrivadna.com)
 
-### 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-The only URL shortener + logger that securely masks any extension over a secured network, bypassing blacklist filters! 🛡️
 
 ## Key Features 🌟
 
@@ -97,7 +84,13 @@ The only URL shortener + logger that securely masks any extension over a secured
 ## 🚀 Live Demo
 
   [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/BHj2zzbT0q0?si=Y3Q8_mHcl0iRgvmq)
-  
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The only URL shortener + logger that securely masks any extension over a secured network, bypassing blacklist filters! 🛡️
+
 ### 🌐 Connect With Me
 Contact for pricing and custom implementations.
 
