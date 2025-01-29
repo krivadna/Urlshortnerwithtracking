@@ -1,6 +1,6 @@
 
 
-# No Holds Barred UrlShortner with built in logger for tracking & Surveillance 🎭 (Web& Command line) by Cyber Kalki
+# No Holds Barred UrlShortner with built in logger for tracking & Surveillance 🎭 (Web & Command line) by Cyber Kalki
 
 ![Animated Banner](https://i.imgur.com/yc3bi2S.png)
 
@@ -45,19 +45,13 @@ For full documentation and additional commands:
 [View Documentation](https://kalkikrivadna.com/purchaseapi3.shtml)
 
 
-### 📱 Connect
-
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://kalkikrivadna.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/urlshortener)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:contact@kalkikrivadna.com)
-
-
 ## Key Features 🌟
 
 • 🔒 **Secure Shortening**
   - Bypass VirusTotal, Bitly, RedirectDetective
   - Extension masking capability
   - Secured network routing
+  - HTTPS support
 
 • 📱 **Advanced Tracking**
   - Device fingerprinting
