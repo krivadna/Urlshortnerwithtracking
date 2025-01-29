@@ -1,13 +1,14 @@
-
-<h1 align="center">
-  
-```diff
-- 🚨 SECURITY DISCLAIMER 🚨
+ 🚨 SECURITY DISCLAIMER 🚨
 ```
 
 <div align="center">
   
 ```diff
+@@ THIS IS A PROOF OF CONCEPT - FOR EDUCATIONAL PURPOSES ONLY @@
++ Use Responsibly
+- Do Not Use In Production
+! Always Get Proper Authorization
+```
 
 # No Holds Barred UrlShortner with built in logger for tracking & Surveillance 🎭 (Web & Command line) by Cyber Kalki
 
