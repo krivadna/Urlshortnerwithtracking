@@ -1,15 +1,4 @@
 
-<h1 align="center">
-  
-
-- 🚨 SECURITY DISCLAIMER 🚨
-
-<div align="center">
-  
-
-@@ THIS IS A PROOF OF CONCEPT - FOR EDUCATIONAL PURPOSES ONLY @@
-+ Use Responsibly
-
 # No Holds Barred UrlShortner with built in logger for tracking & Surveillance 🎭 (Web & Command line) by Cyber Kalki
 
 ![Animated Banner](https://i.imgur.com/yc3bi2S.png)
