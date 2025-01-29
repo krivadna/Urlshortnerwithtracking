@@ -38,13 +38,6 @@ The API will return:
 
 - Current usage limit: 10 requests (connect with me for free api key testing)
 
-
-### 📚 Api details Documentation and commands 
-
-For full documentation and additional commands:
-[View Documentation](https://kalkikrivadna.com/purchaseapi3.shtml)
-
-
 ## Key Features 🌟
 
 • 🔒 **Secure Shortening**
@@ -70,7 +63,7 @@ For full documentation and additional commands:
   - Command line tool
   - Real-time tracking data
   - 
-##  Access Tool 🔥 
+##  Access Tool on WEB 🔥 
 
 [![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/u22.shtml)
 
@@ -78,6 +71,11 @@ For full documentation and additional commands:
 ## 🚀 Live Demo
 
   [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/BHj2zzbT0q0?si=Y3Q8_mHcl0iRgvmq)
+
+### 📚 Api details Documentation and commands 
+
+For full documentation and additional commands:
+[View Documentation](https://kalkikrivadna.com/purchaseapi3.shtml)
 
 ### 📄 License
 
