@@ -1,4 +1,7 @@
- 🚨 SECURITY DISCLAIMER 🚨
+<h1 align="center">
+  
+```diff
+- 🚨 SECURITY DISCLAIMER 🚨
 ```
 
 <div align="center">
@@ -9,6 +12,18 @@
 - Do Not Use In Production
 ! Always Get Proper Authorization
 ```
+
+</div>
+
+<div align="center">
+  
+[![Disclaimer](https://img.shields.io/badge/⚠️-POC%20Only-red?style=for-the-badge)](https://github.com/)
+[![Educational](https://img.shields.io/badge/🎓-Educational-blue?style=for-the-badge)](https://github.com/)
+[![Authorized Testing](https://img.shields.io/badge/🔒-Get%20Authorization-yellow?style=for-the-badge)](https://github.com/)
+  
+</div>
+
+---
 
 # No Holds Barred UrlShortner with built in logger for tracking & Surveillance 🎭 (Web & Command line) by Cyber Kalki
 
