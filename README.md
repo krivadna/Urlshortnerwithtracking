@@ -1,4 +1,30 @@
-# 🚨STRICTLY FOR POC DEMONSTRATION 🚨
+
+<h1 align="center">
+  
+```diff
+- 🚨 SECURITY DISCLAIMER 🚨
+```
+
+<div align="center">
+  
+```diff
+@@ THIS IS A PROOF OF CONCEPT - FOR EDUCATIONAL PURPOSES ONLY @@
++ Use Responsibly
+- Do Not Use In Production
+! Always Get Proper Authorization
+```
+
+</div>
+
+<div align="center">
+  
+[![Disclaimer](https://img.shields.io/badge/⚠️-POC%20Only-red?style=for-the-badge)](https://github.com/)
+[![Educational](https://img.shields.io/badge/🎓-Educational-blue?style=for-the-badge)](https://github.com/)
+[![Authorized Testing](https://img.shields.io/badge/🔒-Get%20Authorization-yellow?style=for-the-badge)](https://github.com/)
+  
+</div>
+
+---
 
 # No Holds Barred UrlShortner with built in logger for tracking & Surveillance 🎭 (Web & Command line) by Cyber Kalki
 
@@ -75,10 +101,10 @@ The API will return:
 For full documentation and additional commands:
 [View Documentation](https://kalkikrivadna.com/purchaseapi3.shtml)
 
+
+
 ### 📄 License
-
-This project is licensed under the Proprietary License - see the [LICENSE](LICENSE) file for details.
-
+Proprietary - All Rights Reserved. See [LICENSE](LICENSE) for details.
 The only URL shortener + logger that securely masks any extension over a secured network, bypassing blacklist filters! 🛡️
 
 ### 🌐 Connect With Me
