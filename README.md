@@ -16,6 +16,8 @@
 [![API](https://img.shields.io/badge/API-REST-orange.svg)](https://kalkikrivadna.com/docs)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white)](https://discord.gg)
 
+![Animated Banner](https://i.imgur.com/C5fKBE5.jpeg)
+
 ## 👋 Dear Coders!
 
 I invite you to test my command-line URL shortener with a built-in logger. Shorten any extension on HTTPS and bypass security filters, including VirusTotal, bitly, redirect detective and more.. It's impossible to detect the redirect path.
