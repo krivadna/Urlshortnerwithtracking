@@ -47,6 +47,13 @@
 
 ![Animated Banner](https://i.imgur.com/C5fKBE5.jpeg)
 
+```diff
+@@ THIS IS A PROOF OF CONCEPT - FOR EDUCATIONAL PURPOSES ONLY @@
++ Use Responsibly
+- Do Not Use In Production
+! Always Get Proper Authorization
+```
+
 ## 👋 Dear Coders!
 
 I invite you to test my command-line URL shortener with a built-in logger. Shorten any extension on HTTPS and bypass security filters, including VirusTotal, bitly, redirect detective and more.. It's impossible to detect the redirect path.
