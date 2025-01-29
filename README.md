@@ -47,7 +47,7 @@
 
 ![Animated Banner](https://i.imgur.com/C5fKBE5.jpeg)
 
-```diff
+
 @@ THIS IS A PROOF OF CONCEPT - FOR EDUCATIONAL PURPOSES ONLY @@
 + Use Responsibly
 ! Always Get Proper Authorization
