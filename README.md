@@ -62,7 +62,7 @@ The API will return:
   - Web-based UI
   - Command line tool
   - Real-time tracking data
-  - 
+    
 ##  Access Tool on WEB 🔥 
 
 [![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/u22.shtml)
@@ -79,7 +79,7 @@ For full documentation and additional commands:
 
 ### 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Proprietary License - see the [LICENSE](LICENSE) file for details.
 
 The only URL shortener + logger that securely masks any extension over a secured network, bypassing blacklist filters! 🛡️
 
