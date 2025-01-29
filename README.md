@@ -1,4 +1,4 @@
-
+# 🚨STRICTLY FOR POC DEMONSTRATION 🚨
 
 # No Holds Barred UrlShortner with built in logger for tracking & Surveillance 🎭 (Web & Command line) by Cyber Kalki
 
@@ -45,11 +45,6 @@
 
   [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/BHj2zzbT0q0?si=Y3Q8_mHcl0iRgvmq)
 
-
-[![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20CLI-blue.svg)](https://kalkikrivadna.com)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![API](https://img.shields.io/badge/API-REST-orange.svg)](https://kalkikrivadna.com/docs)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white)](https://discord.gg)
 
 ![Animated Banner](https://i.imgur.com/C5fKBE5.jpeg)
 
