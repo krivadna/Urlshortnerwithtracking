@@ -61,7 +61,7 @@
 
 ## 🚀 Live Demo 2
 
-  [![Watch Demo](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyberkalkimatrix/138)
+  [![Watch Demo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyberkalkimatrix/138)
 
 
 ![Animated Banner](https://i.imgur.com/C5fKBE5.jpeg)
