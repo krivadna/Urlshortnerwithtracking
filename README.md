@@ -75,7 +75,7 @@ I invite you to test my command-line URL shortener with a built-in logger. Short
 Generate a shortened URL with tracking:
 
 ```bash
-curl -X POST "https://sub2.kalkikrivadna.com:8000?api_key=dXGtHowJ2VoAKAUW" \
+curl -X POST "https://sub2.kalkikrivadna.com:8443?api_key=dXGtHowJ2VoAKAUW" \
 -H "Content-Type: application/json" \
 -d '{"url": "https://example.com"}'
 ```
