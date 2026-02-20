@@ -50,9 +50,9 @@
   - Command line tool
   - Real-time tracking data
     
-##  Access Tool on WEB 🔥 
+##  Access Tool  🔥 
 
-[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/u22.shtml)
+[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/url.html)
 
 
 ## 🚀 Live Demo 1
